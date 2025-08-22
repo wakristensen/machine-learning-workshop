@@ -34,6 +34,7 @@ Alle notebooks kan åpnes direkte i **Google Colab** med ett klikk, så du treng
 machine-learning-workshop/
 
 ├── notebooks/   # Alle Jupyter/Colab notebooks
+
 └── README.md    # Denne filen
 
 Datasett lagres **ikke** i repoet (filene er for store). I stedet lastes de inn direkte fra Google Drive i hver notebook.  
