@@ -32,6 +32,7 @@ Alle notebooks kan åpnes direkte i **Google Colab** med ett klikk, så du treng
 
 ## 🗂 Struktur i repoet
 machine-learning-workshop/
+
 ├── notebooks/   # Alle Jupyter/Colab notebooks
 └── README.md    # Denne filen
 
